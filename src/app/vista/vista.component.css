@@ -1,0 +1,8 @@
+.contenedor img {
+    position: absolute;
+    transition: opacity 1.5s ease-in-out;
+  }
+  
+  .contenedor img.top:hover {
+    opacity: 0;
+  }
